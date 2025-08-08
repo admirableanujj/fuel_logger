@@ -1,0 +1,6 @@
+Flask
+pillow
+easyocr
+gspread
+pytesseract
+werkzeug
